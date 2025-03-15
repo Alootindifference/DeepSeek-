@@ -32,6 +32,9 @@
 5. 点击"开始翻译"按钮开始翻译
 6. 等待翻译完成，翻译后的文件将保存在原文件同目录下，文件名后缀为"_translated.txt"
 
+![屏幕截图 2025-03-15 190627](https://github.com/user-attachments/assets/7a137099-9cd4-47e4-ab34-323b0df3ea14)
+
+
 ## 注意事项
 
 - 请确保您有有效的 Deepseek API 密钥
