@@ -14,14 +14,14 @@
 ## 安装步骤
 
 1. 确保已安装 Python 3.7 或更高版本
-2. 安装依赖包：
+2. 安装依赖包(py文件时，使用)：
    ```bash
    pip install -r requirements.txt
    ```
 
 ## 使用方法
 
-1. 运行程序：
+1. 运行程序(py文件时，使用)：
    ```bash
    python translator.py
    ```
@@ -34,6 +34,7 @@
 ## 注意事项
 
 - 请确保您有有效的 Deepseek API 密钥
+- 注册api网址:https://platform.deepseek.com/
 - 建议翻译前备份原文件
 - 程序支持的文件格式为 .txt
 - 翻译过程中请保持网络连接 
