@@ -1,4 +1,4 @@
-![deepseek-color](https://github.com/user-attachments/assets/e349122b-0f83-47a2-aaa1-7bdfe8449b66)
+![deepseek-color~1](https://github.com/user-attachments/assets/f82ab779-1df9-424e-9e01-7c3b09d0f9d1)
 # 多语言文件翻译器
 
 这是一个基于 Deepseek API 的多语言文件翻译工具，支持多种语言之间的互译。
