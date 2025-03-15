@@ -1,4 +1,5 @@
-![deepseek-color~3](https://github.com/user-attachments/assets/db77330b-3c3f-48a9-bcee-2f9997b19a77) ![deepseek-text](https://github.com/user-attachments/assets/2ca7c5d7-7d53-43fa-9ee4-8828e619e041)
+![deepseek-color~3](https://github.com/user-attachments/assets/db77330b-3c3f-48a9-bcee-2f9997b19a77) ![deepseek-text~1](https://github.com/user-attachments/assets/e9b07873-3e40-40ae-bca5-295c445fe082)
+
 
 
 # 多语言文件翻译器
